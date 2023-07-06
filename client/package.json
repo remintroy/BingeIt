@@ -30,7 +30,7 @@
     "moment": "^2.29.4",
     "movie-trailer": "^3.0.0",
     "react": "^18.2.0",
-    "react-animated-heart": "^0.0.7",
+    "react-animated-heart": "^0.0.8",
     "react-cropper": "^2.3.3",
     "react-dom": "^18.2.0",
     "react-dropzone": "^14.2.3",
